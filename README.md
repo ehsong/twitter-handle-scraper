@@ -72,7 +72,7 @@ if __name__ == '__main__':
 ```
 ![](pandas_image1.jpg)
 
-I examined the results and parsed the matching handles. The sorted list of handles and meta-data extracted are stored in `21st_congress_members_handles_final.json`.
+I examined the results and parsed the matching handles. The sorted list of handles and meta-data of 53 members of the congress are stored in `21st_congress_members_handles_final.json`.
 
 ```
 import json
