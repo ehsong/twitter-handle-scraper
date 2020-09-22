@@ -9,7 +9,7 @@ The scripts run in Python 3.7. Please install the requirements:
 
 Also, you should have a chromedriver installed that matches the version of your chrome browser. Change the directory in `chromedriver_path.py`
 
-You can download the names of the representatives and handles here:
+You can download the names of the representatives and the scraped handles here:
 
 - [Name, district, and party affiliation of members of the 21st national assembly](https://github.com/ehsong/twitter-scraper/blob/master/21st_congress_names.json)
 - [Handles and profile text of 53 reperesentatives of the 21st national assembly](https://github.com/ehsong/twitter-scraper/blob/master/21st_congress_members_handles_final.json)
