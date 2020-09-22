@@ -4,8 +4,8 @@ Scraper that scrapes accounts through querying keywords on twitter. The scraper 
 
 The scripts run in Python 3.7. Please install the requirements:
 
-selenium
-multiprocessing
+- selenium 
+- multiprocessing 
 
 Also, you should have a chromedriver installed that matches the version of your chrome browser. Change the directory in `chromedriver_path.py`
 
