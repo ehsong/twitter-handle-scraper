@@ -1,4 +1,4 @@
-# twitter-scraper
+# twitter-handle-scraper
 
 Scraper that scrapes accounts through querying keywords on twitter. The scraper works in two steps: first, it scrapes handles by querying a query in twitter search page. Second, after obtaining the handles it accesses the account pages of the handle and scrapes meta data including the profile text.
 
