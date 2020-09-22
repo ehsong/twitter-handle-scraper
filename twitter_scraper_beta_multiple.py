@@ -18,7 +18,7 @@ from chromedriver_path import *
 from tqdm import tqdm
 import pandas as pd
 
-from timesc import *
+# from timesc import *
 import json
 
 from multiprocessing.dummy import Pool
